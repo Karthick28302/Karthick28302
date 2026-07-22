@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Karthick 👋
 
-<!--
-**Karthick28302/Karthick28302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+BCA Graduate passionate about Python Development, Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I enjoy building practical software solutions and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python
+- Flask
+- React.js
+- MySQL
+- OpenCV
+- Git & GitHub
+- Machine Learning Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Internship Experience
+Full-Stack Development Intern at Cloudisian, Bangalore.
+
+## Current Project
+### Smart Attendance System
+A Face Recognition Based Attendance Management System using Python, OpenCV, Flask, React, and MySQL.
+
+## Currently Learning
+- Machine Learning
+- SAP Fundamentals
+- Advanced Python Development
+
+## Connect With Me
+📧 Email: karthick20040812@gmail.com
